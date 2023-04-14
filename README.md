@@ -7,7 +7,7 @@ Docker Calculator is a simple calculator application built using Python and Dock
 To use Docker Calculator, you will need the following software installed on your machine:
 
 - Docker
-- Python 3.9
+- Python 3.12
 
 ## Installation
 
